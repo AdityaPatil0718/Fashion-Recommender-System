@@ -1,3 +1,5 @@
+****DATASET LINK: https://www.kaggle.com/datasets/validmodel/indo-fashion-dataset****
+
 **Fashion Recommender System**
 
 **Introduction:**
