@@ -7,9 +7,6 @@
 Welcome to the Fashion Recommender System repository! This project aims to provide a personalized fashion recommendation experience using Convolutional Neural Networks (CNN). By leveraging deep learning techniques, the system analyzes images of clothing items to understand their visual features and recommends similar items based on user preferences.
 Fashion Recommender System using Convolutional Neural Networks (CNN)
 
-**Introduction:**
-
-Welcome to the Fashion Recommender System repository! This project aims to provide a personalized fashion recommendation experience using Convolutional Neural Networks (CNN). By leveraging deep learning techniques, the system analyzes images of clothing items to understand their visual features and recommends similar items based on user preferences.
 
 **Features:**
 
